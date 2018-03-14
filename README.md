@@ -3,7 +3,7 @@
 包含了third_party的closure-compiler，closure-library，flot-axislabels文件。
 替换googlecdn路径，改为本地JS,部分标签无法使用。
 
-1.使用Docker
+方法1.使用Docker
 
 若使用docker 请直接运行
 
@@ -13,7 +13,7 @@ docker image下载成功后，执行以下命令
 
 	$sudo docker run -d -p 9999:9999 battery-historian
 
-2.直接下载battery-historian
+方法2.直接使用GO run battery-historian
 
 a. 下载
 
