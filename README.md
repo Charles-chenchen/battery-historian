@@ -1,6 +1,6 @@
 # battery-historian
 包含了third_party的closure-compiler，closure-library，flot-axislabels文件。
-替换googlecdn路径，改为本地JS。
+替换googlecdn路径，改为本地JS,部分标签无法使用。
 
 1.使用Docker 
   若使用docker 请直接运行
