@@ -1,6 +1,6 @@
 # battery-historian
-	包含了third_party的closure-compiler，closure-library，flot-axislabels文件。
-	替换googlecdn路径，改为本地JS,部分标签无法使用。
+包含了third_party的closure-compiler，closure-library，flot-axislabels文件。
+替换googlecdn路径，改为本地JS,部分标签无法使用。
 
 1.使用Docker 
 若使用docker 请直接运行
@@ -16,6 +16,4 @@ a. 下载
 b.执行
 	$cd $GOPATH/src/github.com/google/battery-historian/battery-historian
 	$go run cmd/battery-historian/battery-historian.go
-  
-
  
