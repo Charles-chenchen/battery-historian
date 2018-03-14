@@ -11,7 +11,7 @@
 
 若使用docker 请直接运行
 
-	$sudo docker build -f Dockerfile battery-historian
+	$sudo docker build -f Dockerfile -t battery-historian .
 
 docker image下载成功后，执行以下命令 
 
