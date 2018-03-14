@@ -2,7 +2,8 @@
 
 	主要用于不能翻墙，公司外网权限受限用户使用。
 	
-	包含了third_party的closure-compiler，closure-library，flot-axislabels文件，替换googlecdn路径，改为本地JS,部分标签可能无法使用。
+		包含了third_party的closure-compiler，closure-library，flot-axislabels文件，
+		替换googlecdn路径，改为本地JS,部分标签可能无法使用。
 	
 	若可以翻墙与使用外网的用户请访问https://github.com/google/battery-historian，获取更好的体验。
 
